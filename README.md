@@ -30,7 +30,7 @@
     ```
 
 ## 命令行直接配置：
-    git config --global user.name "John Doe" 配置用户信息：
+    git config --global user.name "John Doe" 配置用户信息
     git config --global core.editor "vim"    配置git的默认编辑器
  
 
